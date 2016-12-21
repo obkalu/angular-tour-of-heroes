@@ -29,16 +29,16 @@ h4 {
 .module {
   padding: 20px;
   text-align: center;
-  color: #eee;
+  color: #607D8B;
   max-height: 120px;
   min-width: 120px;
-  background-color: #607D8B;
+  background-color: #ccc;
   border-radius: 2px;
 }
 .module:hover {
-  background-color: #EEE;
+  background-color: #607d8b;
   cursor: pointer;
-  color: #607d8b;
+  color: #ccc;
 }
 .grid-pad {
   padding: 10px 0;
